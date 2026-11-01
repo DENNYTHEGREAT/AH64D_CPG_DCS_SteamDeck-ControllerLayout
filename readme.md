@@ -8,7 +8,7 @@ Role: CPG/Gunner
 Version: 1.3
 
 Layout Overview:
-<img width="1872" height="1051" alt="InputMapFull" src="https://github.com/user-attachments/assets/9adb05b6-d156-436c-bc1f-cbe584d2e112" />
+<img width="1872" height="1051" alt="InputMapFull" src="" />
 
 ## Design Philosophy
 This layout prioritizes:
@@ -29,13 +29,20 @@ This layout prioritizes:
 7. Select and Apply
 8. Optional but recommended, download the "AHButtons_SteamInput" folder and place the icons into the "C:\Program Files (x86)\Steam\tenfoot\resource\images\library\controller\binding_icons" location then you MUST restart steam to see those icons. Note: I have not been able to test this if images will be properly remapped from the steam input config + having them in the input folder location. (You might need to modify the steam controller layout to add each icon for the virtual menu)
 
+## Installation DCS Configs
+1. Open C:\Users\<yourusername>\Saved Games\DCS\Config\Input
+2. Drop AH-64D_BLK_II_AI_Menu and AH-64D_BLK_II_CPG into this location
+3. In DCS, Select AH-64D CP/G dropdown in control options -> select the keyboard column -> load profile -> select KEYBOARD-AH64D_CPG_DCS_SteamDeck-ControllerLayout.diff
+4. In DCS, Select AH-64D CP/G dropdown in control options -> select the xbox controller column -> load profile -> select CONTROLLER-AH64D_CPG_DCS_SteamDeck-ControllerLayout.diff
+5. In DCS, Select AH-64D George AI Helper dropdown in control options -> select the xbox controller column -> load profile -> select CONTROLLER_AIMENU-AH64D_CPG_DCS_SteamDeck-ControllerLayout.diff
+
 ## Required In-Game Settings
 - The way things are bound might seem a little wacky... It uses a mix of controller inputs for axis controls and also uses keyboard inputs to map the additional buttons that cannot be bound using the controller.
 - Install and import the controller scheme layout from the uploaded github files. This has everything needed to match the steam controller/deck layout.
 
 ## Versioning
 V1.3 
-  - Added ESC to the controller
+  - Added ESC to the controller updated readme to include configs and url locations
 V1.2
  - Fixed issues with first and second detent
 V1.1
