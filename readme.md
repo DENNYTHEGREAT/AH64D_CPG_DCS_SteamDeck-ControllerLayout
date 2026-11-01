@@ -3,9 +3,9 @@ Custom Steam Input configuration for AH-64D CPG/Gunner optimized for HOTAS-style
 
 Supports:
 - Steam Deck (Tested with remote play)
-- Steam Controller? (Not tested but has same inputs other than touchscreen)
+- Steam Controller
 Role: CPG/Gunner
-Version: 1.2
+Version: 1.3
 
 Layout Overview:
 <img width="1872" height="1051" alt="InputMapFull" src="https://github.com/user-attachments/assets/9adb05b6-d156-436c-bc1f-cbe584d2e112" />
