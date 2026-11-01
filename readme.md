@@ -25,7 +25,7 @@ This layout prioritizes:
 3. Right-click DCS World → Manage → Controller Layout
 4. Browse Community Layouts
 5. Search for: "AH64D - CPG Steam Deck/Controller V" Or 
-6. Install using community steam input link: "steam://controllerconfig/223750/3831655863"  
+6. Install using community steam input link: "[steam://controllerconfig/223750/3831655863](steam://controllerconfig/223750/3831655863)"  
 7. Select and Apply
 8. Optional but recommended, download the "AHButtons_SteamInput" folder and place the icons into the "C:\Program Files (x86)\Steam\tenfoot\resource\images\library\controller\binding_icons" location then you MUST restart steam to see those icons. Note: I have not been able to test this if images will be properly remapped from the steam input config + having them in the input folder location. (You might need to modify the steam controller layout to add each icon for the virtual menu)
 
