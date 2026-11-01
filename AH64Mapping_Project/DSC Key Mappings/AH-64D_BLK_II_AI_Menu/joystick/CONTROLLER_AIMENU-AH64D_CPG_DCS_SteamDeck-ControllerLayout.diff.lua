@@ -5,8 +5,8 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
 					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "RAlt",
+						[1] = "LCtrl",
+						[2] = "RCtrl",
 					},
 				},
 			},
@@ -17,8 +17,8 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
 					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "RAlt",
+						[1] = "LCtrl",
+						[2] = "RCtrl",
 					},
 				},
 			},
@@ -29,8 +29,8 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_L",
 					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "RAlt",
+						[1] = "LCtrl",
+						[2] = "RCtrl",
 					},
 				},
 			},
@@ -41,8 +41,8 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_R",
 					["reformers"] = {
-						[1] = "LAlt",
-						[2] = "RAlt",
+						[1] = "LCtrl",
+						[2] = "RCtrl",
 					},
 				},
 			},
