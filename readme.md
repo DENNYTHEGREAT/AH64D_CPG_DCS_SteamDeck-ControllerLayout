@@ -41,10 +41,10 @@ This layout prioritizes:
 - Install and import the controller scheme layout from the uploaded github files. This has everything needed to match the steam controller/deck layout.
 
 ## Versioning
-V1.3 
+- V1.3 
   - Added ESC to the controller updated readme to include configs and url locations
-V1.2
- - Fixed issues with first and second detent
-V1.1
+- V1.2
+  - Fixed issues with first and second detent
+- V1.1
   - Initial release of this configuration
 
